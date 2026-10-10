@@ -1,6 +1,6 @@
 import pytest
 
-from src.determine_letter_grade import determine_letter_grade
+from app.determine_letter_grade import determine_letter_grade
 
 class TestDetermineLetterGrade:
 
