@@ -1,6 +1,6 @@
 import pytest
 
-from math_operations import add_numbers
+from src.math_operations import add_numbers
 
 class TestMathOperations:
 
